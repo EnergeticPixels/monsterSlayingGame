@@ -1,0 +1,27 @@
+{
+  "name": "monster_slayer_game",
+  "version": "0.0.1",
+  "description": "intro to vue.js by building a game",
+  "main": "index.html",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EnergeticPixels/monsterSlayingGame.git"
+  },
+  "bugs": {
+    "url": "https://github.com/EnergeticPixels/monsterSlayingGame/issues"
+  },
+  "homepage": "https://github.com/EnergeticPixels/monsterSlayingGame#readme",
+  "keywords": [
+    "vue.js",
+    "foundation.css",
+    "monster",
+    "simple",
+    "game"
+  ],
+  "author": {
+    "name": "Anthony Jackman",
+    "email": "energeticpixels@gmail.com",
+    "url": "http://energeticpixels.us"
+  },
+  "license": "MIT"
+}
