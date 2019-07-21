@@ -2,6 +2,7 @@
 
 ## Mission:
 This is a demonstration when I was learning vue.js.  Simple game.
+This simple game will also be used to implement some xAPI technologies.
 
 ## Development Methodology:
 * vue.js (not the cli version)
