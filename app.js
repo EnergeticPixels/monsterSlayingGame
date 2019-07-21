@@ -67,7 +67,7 @@ new Vue({
     },
     checkWin: function() {
       if (this.monsterHealth <= 0) {
-        if (confirm('You won! New Game')) {
+        if (confirm('You won! New Game?')) {
           this.startGame();
         } else {
           this.gameIsRunning = false;
